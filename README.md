@@ -1,2 +1,2 @@
 # SelectionSort
-Selection sort algorithm that reads a list of numbers from a file and sorts them in ascending order.
+Selection sort algorithm that reads a list of numbers from a file and sorts them in descending order.
